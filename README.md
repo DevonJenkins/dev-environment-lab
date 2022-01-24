@@ -1,8 +1,7 @@
 ![myreadme](https://i.imgur.com/fmEFooe.png) 
 
 # dev-environment-lab
-# dev-environment-lab
-# dev-environment-lab
+
 
 ## OS
 
